@@ -1,0 +1,12 @@
+
+.read-or-hide{
+    color: rgb(10, 9, 9);
+    cursor: pointer;
+  }
+  /* .text{
+    display: inline;
+    width: 100%;
+  } */
+  .cpad{
+    padding-top: 100px;
+  }

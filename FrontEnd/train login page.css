@@ -1,0 +1,66 @@
+.top1{
+  /* background-image:  url('assets/login\ bg.jpg'); */
+  background-image: url('./assets/homepage bg.jpeg');
+
+  background-size:cover;
+  padding-top: 90px;
+ height:600px;
+ opacity:0.8;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ /* fontFamily: "Sans-Serif" */
+
+ /* body{
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	position:static;
+} */
+}
+.s1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50px;
+    width:100%;
+    opacity: 0.5;
+}
+.container {
+  max-width: 300px;
+  margin: 0 auto;
+  display:flex;
+  padding: 40px;
+  border-radius: 50px;
+  padding-bottom: 70px;
+  box-shadow: 0 0 10px rgba(239, 138, 31, 0.5);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  color:black;
+}
+form button {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #45a049;
+}

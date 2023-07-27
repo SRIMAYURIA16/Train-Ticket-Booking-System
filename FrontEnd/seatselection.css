@@ -1,0 +1,56 @@
+.ss1{
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    /* background-image: url('./assests/homebg.jpg'); */
+    background-size: cover;
+    width: 100%;
+    height:100vh;
+    overflow-y: scroll;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background-color: blue; */
+}
+.tg21{
+    padding-left: 7%;
+    padding-right: 5%;
+    display:inline-block;
+    /* background-color:  rgb(252, 239, 239); */
+    background-color: darkgray;
+    width:100%;
+    height:70vh;
+    padding-bottom: 3%;
+    padding-top: 5%;
+
+}
+.tg31{
+    /* background-color: blue; */
+    width:100%;
+    /* padding-right: 3%; */
+}
+.tg3t1{
+    display:inline-block;
+    width:16%;
+    padding-right: 3.5%;
+    padding-bottom: 2%;
+}
+.tg2t1{
+    padding-bottom: 3%;
+}
+.tg31 span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: medium;
+    color:black;
+}
+.tg31 p{
+    font-size: x-large;
+    color:rgb(244, 210, 210);
+}
+
+.ss2{
+    background-color:darkgray;
+    
+    padding-bottom: 3%;
+}
